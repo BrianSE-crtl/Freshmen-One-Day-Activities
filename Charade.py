@@ -32,4 +32,4 @@ randStuff = [
     "Singing a birhday song",
     "Using a toaster"
 ]
-print(f"Your prompt is: \n{random.choice(randStuff)}")
+print(f"Your prompt is: \n{random.choice(randStuff)}\n\n")
